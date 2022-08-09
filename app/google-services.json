@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624589574369",
+    "firebase_url": "https://healthbeing-b2ab3.firebaseio.com",
+    "project_id": "healthbeing-b2ab3",
+    "storage_bucket": "healthbeing-b2ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624589574369:android:683195c7ff0bde27e167a0",
+        "android_client_info": {
+          "package_name": "com.turno.healthbeing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624589574369-bronsuccndal9shq9926ojqvkhvruj41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turno.healthbeing",
+            "certificate_hash": "2ac77fbfc53044c0f614d66273f4575c4b0c0241"
+          }
+        },
+        {
+          "client_id": "624589574369-umnh9k82ds0bqga6agsp7p749g5kt44g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fbfP4pAFwu1c1HiIQxbRtkXHLPOlnRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624589574369-umnh9k82ds0bqga6agsp7p749g5kt44g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
